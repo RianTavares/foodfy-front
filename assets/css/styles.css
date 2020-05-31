@@ -131,3 +131,24 @@ footer {
     font-size: 14px;
     color: #999999;
 }
+
+.active {
+    font-weight: bold;
+}
+
+.about-content {
+    margin-bottom: 50px;
+}
+
+.about-content article hgroup h1 {
+    font-size: 24px;
+}
+
+.about-content article hgroup h2 {
+    font-size: 20px;
+}
+
+.about-content article p {
+    font-size: 18px;
+    margin: 20px 0 20px 0;
+}
