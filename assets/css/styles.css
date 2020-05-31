@@ -81,7 +81,7 @@ body {
 }
 
 .main-content {
-    margin-top: 50px;
+    margin-top: 20px;
     margin-bottom: 50px;
 } 
 
@@ -134,10 +134,6 @@ footer {
 
 .active {
     font-weight: bold;
-}
-
-.about-content {
-    margin-bottom: 50px;
 }
 
 .about-content article hgroup h1 {
